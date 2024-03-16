@@ -27,7 +27,7 @@ class User:
     def __init__(self, username=None, fullname=None, email=None, password=None):
         """
             To Do: accept creating of users in bulk and change the way the parameters are being passed
-            i.e instead of passing the username, fullname, email, and password as parameters in the __init__ method,
+            ie instead of passing the username, fullname, email, and password as parameters in the __init__ method,
             pass them directly to the create_user and edit_user methods.
         
         """
